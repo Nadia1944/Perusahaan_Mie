@@ -1,0 +1,12 @@
+C:\Users\NAILIAM\AppData\Local\Temporary Projects\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe.config
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe.config
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.pdb
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.xml
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.vbprojResolveAssemblyReference.cache
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K._3___Perusahaan_Mie.Form1.resources
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K._3___Perusahaan_Mie.Resources.resources
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.vbproj.GenerateResource.Cache
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.exe
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.xml
+D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.pdb
