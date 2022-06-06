@@ -10,3 +10,16 @@ D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusah
 D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.exe
 D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.xml
 D:\SMT 6\PAPSI\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.pdb
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe.config
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.pdb
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.xml
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K._3___Perusahaan_Mie.Form1.resources
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K._3___Perusahaan_Mie.Resources.resources
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K._3___Perusahaan_Mie.Purchasing.resources
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.vbproj.GenerateResource.cache
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.exe
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.xml
+C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.pdb
