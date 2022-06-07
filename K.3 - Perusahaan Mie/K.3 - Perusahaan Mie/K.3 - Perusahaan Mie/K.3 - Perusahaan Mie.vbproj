@@ -73,11 +73,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Koneksi.vb" />
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Main Menu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Main Menu.Designer.vb">
       <DependentUpon>Main Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maketing.Designer.vb">
+      <DependentUpon>Maketing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maketing.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -96,16 +108,34 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Produksi.Designer.vb">
+      <DependentUpon>Produksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Produksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Purchasing.Designer.vb">
       <DependentUpon>Purchasing.vb</DependentUpon>
     </Compile>
     <Compile Include="Purchasing.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="WarehoseFG.Designer.vb">
+      <DependentUpon>WarehoseFG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WarehoseFG.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main Menu.resx">
       <DependentUpon>Main Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maketing.resx">
+      <DependentUpon>Maketing.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -113,8 +143,14 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Produksi.resx">
+      <DependentUpon>Produksi.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Purchasing.resx">
       <DependentUpon>Purchasing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WarehoseFG.resx">
+      <DependentUpon>WarehoseFG.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

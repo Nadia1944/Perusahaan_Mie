@@ -95,7 +95,7 @@
         Call Hidupkanbtn()
     End Sub
     Private Sub btnexit_Click(sender As Object, e As EventArgs) Handles btnexit.Click
-        Dim menu As New Form1
+        Dim menu As New Main_Menu
         Me.Close()
         menu.Show()
     End Sub
