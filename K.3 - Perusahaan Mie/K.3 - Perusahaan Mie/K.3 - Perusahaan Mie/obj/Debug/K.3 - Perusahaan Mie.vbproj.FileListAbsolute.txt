@@ -23,3 +23,7 @@ C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3
 C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.exe
 C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.xml
 C:\Users\ASUS\Music\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.pdb
+C:\Users\Anggis\Documents\S M T R  6 ! !\Prak APSI\SI UAS\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\bin\Debug\K.3 - Perusahaan Mie.exe.config
+C:\Users\Anggis\Documents\S M T R  6 ! !\Prak APSI\SI UAS\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.exe
+C:\Users\Anggis\Documents\S M T R  6 ! !\Prak APSI\SI UAS\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.xml
+C:\Users\Anggis\Documents\S M T R  6 ! !\Prak APSI\SI UAS\Perusahaan_Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\K.3 - Perusahaan Mie\obj\Debug\K.3 - Perusahaan Mie.pdb
